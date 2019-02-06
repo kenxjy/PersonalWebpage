@@ -1,0 +1,20 @@
+.navbar {
+    background: rgba(50,50,50,0);
+    border: rgba(0,0,0,0);
+    box-shadow: none;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+body {
+    height: 100vh;
+    background: center / auto 110% no-repeat url("../img/bg.jpg"), rgb(25,25,25);
+}
+
+#main-container {
+    height: 100%;
+    overflow-y: hidden;
+    color: white;
+}
