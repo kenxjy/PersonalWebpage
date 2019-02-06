@@ -50,7 +50,7 @@ function home() {
     let $innerDiv = $("<div></div>", {class : "col-md-12", width : "100%"});
     $innerDiv.css({ "text-align" : "center", "font-family" : "Verdana", "font-weight" : "bold"})
     
-    $innerDiv.append("<p>JUNIOR DEVELOPER.</p><br>");
+    $innerDiv.append("<p>KENNETH YUE<br>JUNIOR DEVELOPER</p><br>");
     $rowDiv.append($innerDiv);
     $("#main-container").append($rowDiv);
 }
